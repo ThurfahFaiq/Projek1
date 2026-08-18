@@ -1,1 +1,1 @@
-projek parktikum git RPL 4g
+Project praktikum kolaborasi Git dan GitHub untuk RPL.
