@@ -1,1 +1,1 @@
-projek parktikum git RPL 4gi
+projek parktikum git RPL 4g
